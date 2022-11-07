@@ -10,6 +10,10 @@ body{
 header{
   background-color: transparent;
 }
+header .dropdown-item:hover{
+  background-color: #ffc451;
+  color: white;
+}
 /* header .bgcolor.scrolled{
   background-color: #686666;
 } */
